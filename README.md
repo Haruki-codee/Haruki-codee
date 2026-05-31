@@ -1,10 +1,12 @@
-## Hi there 👋
+## Hi there 👋 I'm Rishabh
 
-I'm Rishabh 
+🧠 ML enthusiast on a mission to understand intelligence 
 
-🌍 Based in India
+## 🚀 About Me
 
-
-🚀 Currently learning Machine learning with side by side Mathematics
+- 🌍 Based in **India**
+- 📚 Currently Learning **Machine Learning + Mathematics**
+- 🔢 Believer that *math is the language of the universe*
+- 🌱 Growing every day — slowly but surely
 
 
