@@ -14,7 +14,10 @@ I like understanding why a solution works, not only getting it to pass, so I com
 Still in the works. I am building projects I am proud of and will add them here when they are ready.
 
 ## Find me
-[![LinkedIn](https://shields.io)](https://www.linkedin.com/in/rishabh-sharma-388609419/?isSelfProfile=true)   [![Email](https://shields.io)](rinrishabhb@gmail.com)
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/rishabh-sharma-388609419/?isselfprofile=true" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rishabh-sharma-388609419/?isselfprofile=true" height="30" width="40" /></a>
+</p>
+
 
 
 <img src="https://i.pinimg.com/originals/ab/e5/57/abe557b5780fc93e83447ac60987d000.gif" width="50%" alt="Izzy Typing">
