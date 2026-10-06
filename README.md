@@ -18,7 +18,6 @@ Still in the works. I am building projects I am proud of and will add them here 
 
 ## Find me
 <p align="left">
-<a href="https://linkedin.com/in/rishabh sharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishabh sharma" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/haruki_codes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="haruki_codes" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/haruki_codes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="haruki_codes" height="30" width="40" /></a>
 </p>
