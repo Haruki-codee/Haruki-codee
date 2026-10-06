@@ -14,6 +14,7 @@ I like understanding why a solution works, not only getting it to pass, so I com
 Still in the works. I am building projects I am proud of and will add them here when they are ready.
 
 ## Find me
-[LinkedIn](<link>) · [Portfolio](<link>) · <email>
+[![LinkedIn](https://shields.io)](https://www.linkedin.com/in/rishabh-sharma-388609419/?isSelfProfile=true)   [![Email](https://shields.io)](rinrishabhb@gmail.com)
+
 
 <img src="https://i.pinimg.com/originals/ab/e5/57/abe557b5780fc93e83447ac60987d000.gif" width="50%" alt="Izzy Typing">
